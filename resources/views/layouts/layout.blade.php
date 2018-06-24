@@ -92,7 +92,7 @@
           <div id="about">
             <div class="headlines" id="headlines-about">ABOUT <p>ME</p>
               <!--UPLOAD YOUR PHOTO TO FOLDER "IMG" WITH SAME NAME - profile-photo.png. THE PHOTO SIZE IS 196 x 196 px-->
-              <img id="my_photo" src="img/portfolio-image.jpg">
+              <img id="my_photo" src="/img/portfolio-image.jpg">
             </div>
             <!--CHANGE TEXT ABOUT YOU-->
             <div id="about-me-box">Hi my name is William Cotton and I am currently enrolled in a coding bootcamp hosted by the University of Texas at Austin via Triliogy. I am thoroughly enjoying the challenge that coding offers as well as the creativity. I decide to presue computer coding because I wanted a change in careers. Coding stood out to me because I have many friends in different aspects of the business that really enjoy thier work, as well as, being somewhat computer savy I knew it would be a good fit. I hope, in time, that I will make this a full time career doing front-end wed development.
