@@ -12,19 +12,19 @@
   <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
   <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-  <link rel='stylesheet' type='text/css' href='magnific-popup/magnific-popup.css'/>  
-  <link rel="stylesheet" type="text/css" href="css/style.css" />
-	<link rel="stylesheet" type="text/css" href="css/common.css" />
-  <link rel="stylesheet" type="text/css" href="css/animate.css" />
-  <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script
+  <link rel='stylesheet' type='text/css' href='js/magnific-popup/magnific-popup.css'/>  
+  <link rel="stylesheet" type="text/css" href="/css/style.css" />
+	<link rel="stylesheet" type="text/css" href="/css/common.css" />
+  <link rel="stylesheet" type="text/css" href="/css/animate.css" />
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
   <script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
-  <script type='text/javascript' src="script.js"></script>  
+  <script type='text/javascript' src="/js/script.js"></script>  
   <script src="js/modernizr.custom.js"></script>
   <script type="text/javascript" src="js/modernizr.custom.79639.js"></script> 
   <script type="text/javascript" src="js/jquery.mixitup.min.js"></script>
   <script type='text/javascript' src='magnific-popup/jquery.magnific-popup.min.js'></script> 
-  <script src="magnific-popup/jquery.magnific-popup.js"></script> 
+  <script src="js/magnific-popup/jquery.magnific-popup.js"></script> 
   <script src="js/jquery.backstretch.min.js"></script>  
   <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
   <script type="text/javascript">
@@ -51,7 +51,8 @@
             }
   </script>
   <!--USE TO GOOGLE MAPS AND CHANGE YOUR GPS ON LINE 33. EXAMPLE FOR NEW YORK: 40.747257,-74.003906.-->
-  </head>   <body>
+  </head>  
+  <body>
   <div id="preloader">
       <div id="status">&nbsp;</div>
   </div>
