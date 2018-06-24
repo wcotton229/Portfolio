@@ -1,13 +1,14 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
+<!doctype html>
+<html lang="{{ app()->getLocale() }}">
+     <head>
   <meta http-equiv="content-type" content="text/html; charset=windows-1250">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta name="description" content="Personal profile page - ZikZak" />
   <meta name="keywords" content="profile, theme, css, html, jquery, transition, transform" />
   <meta name="robots" content="noindex, follow" />
   <title>William Cotton</title>
-  <link rel='stylesheet' type='text/css' href='css/styles/blue.css'/> <!-- CHOOSE A COLOR SCHEMA: green.css, blue.css, brown.css, purple.css or turquoise.css -->   
+  <!--CSS Stylesheet-->
+  <link rel='stylesheet' type='text/css' href='/css/blue.css'/>
   <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
   <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
@@ -15,7 +16,7 @@
   <link rel="stylesheet" type="text/css" href="css/style.css" />
 	<link rel="stylesheet" type="text/css" href="css/common.css" />
   <link rel="stylesheet" type="text/css" href="css/animate.css" />
-  <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
   <script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
   <script type='text/javascript' src="script.js"></script>  
@@ -50,8 +51,7 @@
             }
   </script>
   <!--USE TO GOOGLE MAPS AND CHANGE YOUR GPS ON LINE 33. EXAMPLE FOR NEW YORK: 40.747257,-74.003906.-->
-  </head>   
-<body>
+  </head>   <body>
   <div id="preloader">
       <div id="status">&nbsp;</div>
   </div>
