@@ -9,10 +9,11 @@
   <title>William Cotton</title>
   <!--CSS Stylesheet-->
   <link rel='stylesheet' type='text/css' href='/css/blue.css'/>
-  <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+  {{-- <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'> --}}
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
   <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-  <link rel='stylesheet' type='text/css' href='js/magnific-popup/magnific-popup.css'/>  
+  {{-- <link rel='stylesheet' type='text/css' href='/js/magnific-popup/magnific-popup.css'/>   --}}
   <link rel="stylesheet" type="text/css" href="/css/style.css" />
 	<link rel="stylesheet" type="text/css" href="/css/common.css" />
   <link rel="stylesheet" type="text/css" href="/css/animate.css" />
@@ -23,10 +24,11 @@
   <script src="js/modernizr.custom.js"></script>
   <script type="text/javascript" src="js/modernizr.custom.79639.js"></script> 
   <script type="text/javascript" src="js/jquery.mixitup.min.js"></script>
-  <script type='text/javascript' src='magnific-popup/jquery.magnific-popup.min.js'></script> 
-  <script src="js/magnific-popup/jquery.magnific-popup.js"></script> 
+  {{-- <script type='text/javascript' src='magnific-popup/jquery.magnific-popup.min.js'></script>  --}}
+  {{-- <script src="js/magnific-popup/jquery.magnific-popup.js"></script>  --}}
   <script src="js/jquery.backstretch.min.js"></script>  
-  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7pzfO-VrdHJYKeg6N3jOSDULWiKBcB6I"></script>
+  {{-- Call to the google maps API --}}
   <script type="text/javascript">
             google.maps.event.addDomListener(window, 'load', init);
         
@@ -50,15 +52,14 @@
                             });
             }
   </script>
-  <!--USE TO GOOGLE MAPS AND CHANGE YOUR GPS ON LINE 33. EXAMPLE FOR NEW YORK: 40.747257,-74.003906.-->
   </head>  
   <body>
   <div id="preloader">
       <div id="status">&nbsp;</div>
   </div>
+{{-- Nav bar --}}
   <div id="navigation">
     <div class="navigation-wrapper">
-    <!--CHANGE YOUR NAME-->
     <span id="navigation-name">WILLIAM COTTON</span>  
     <span id="item_1">ABOUT ME</span>
     <span id="item_2">RESUME</span>
@@ -124,24 +125,31 @@
                 <div class="selection-resume">
                 <div class="icons"><i class="fa fa-users"></i></div>
                 <!--CHANGE YEAR--> 
-                <div class="year">2008 - 2010</div> 
-                <p class="company">Company Name</p>
-                <p class="position">Senior Product Manager</p>
+                <div class="year">Present</div> 
+                <p class="company">Thomas Land Surveying</p>
+                <p class="position">AutoCAD Draftsman</p>
                 <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh alte rivero nantasy muldaos kelty.</p>
                 </div>
                 <div class="selection-resume">
                 <div class="icons"><i class="fa fa-users"></i></div>  
-                <div class="year">2005 - 2008</div> 
-                <p class="company">Company Name</p>
-                <p class="position">Senior Product Manager</p>
+                <div class="year">2017 - 2018</div> 
+                <p class="company">CenterPoint Energy</p>
+                <p class="position">GIS Technician</p>
+                <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh alte rivero nantasy muldaos kelty.</p>
+                </div>
+                 <div class="selection-resume">
+                <div class="icons"><i class="fa fa-users"></i></div>  
+                <div class="year">2015 - 2017</div> 
+                <p class="company">Apple, Inc</p>
+                <p class="position">GIS Technician</p>
                 <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh alte rivero nantasy muldaos kelty.</p>
                 </div>
                 <!--IF YOU NEED NEXT EMPLOYMENT, COPY SELECTION START'S "DIV SELECTION-RESUME" ... -->
                 <div class="selection-resume last-selection">
                 <div class="icons"><i class="fa fa-camera"></i></div>  
-                <div class="year">2000 - 2005</div>   
-                <p class="company">University of the Arts London</p>
-                <p class="position">Master of Arts</p>
+                <div class="year">2008 - 2012</div>   
+                <p class="company">University of Texas</p>
+                <p class="position">Bachelor of Arts</p>
                 <p class="description last-description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh alte rivero nantasy muldaos kelty.</p>
                 </div>
                 <!--AND END HERE-->
@@ -304,11 +312,11 @@
      
     });
     </script>
-    <script type="text/javascript">
+    {{-- <script type="text/javascript">
             $(document).ready(function() {
             $('.test-popup-link').magnificPopup({type:'image', gallery:{enabled:true}}); 
             });
-  </script>
+  </script> --}}
   <script type="text/javascript">
         $(window).load(function() { 
             $('#status').fadeOut(); 
