@@ -142,7 +142,16 @@
                 <div class="year">2015 - 2017</div> 
                 <p class="company">Apple, Inc</p>
                 <p class="position">GIS Technician</p>
-                <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh alte rivero nantasy muldaos kelty.</p>
+                <p class="description"> Analyze and validate data content and assemble new content from various sources, including databases, files/spreadsheets and websites. 
+                <br>
+                <br>
+                Responsible for content analysis, validation, cleansing, collecting and reporting.
+                <br>
+                <br>
+                QA/QC spatial information received from various vendors for implementation into Apple’s mapping software program.
+                <br>
+                <br>
+                Develop in-depth knowledge of team’s primary software and data structure. </p>
                 </div>
                 <!--IF YOU NEED NEXT EMPLOYMENT, COPY SELECTION START'S "DIV SELECTION-RESUME" ... -->
                 <div class="selection-resume last-selection">
