@@ -180,7 +180,7 @@
                 <ul class="ch-grid" id='Grid'>
                 	<li class="mix design">
                     <!--IMAGES ARE STORED IN THE FOLDER "IMAGES". THUMBNAILS ARE MARKED WITH A NUMBER 1 TO 6. ORIGINAL SIZE HAVE A NUMBER AND "X".-->
-                    <a class="test-popup-link" href="images/1x.jpg">
+                    <a class="test-popup-link" href="images/Take-A-Hike.png">
           						<div class="ch-item ch-img-1">
           							<div class="ch-info">
                           <!--USE WHAT YOU HAVE. FOR EXAMPLE: NAME OF PHOTOGRAPHY AND CLIENT-->
@@ -191,7 +191,7 @@
                     </a>
 					        </li>
         					<li class="mix photoghraphy">
-                    <a class="test-popup-link" href="images/2x.jpg">
+                    <a class="test-popup-link" href="images/Take-A-Hike.png">
           						<div class="ch-item ch-img-2">
           							<div class="ch-info">
           								<h3>Use what you have</h3>
@@ -201,7 +201,7 @@
                     </a>
         					</li>
         					<li class="mix illustration">
-                    <a class="test-popup-link" href="images/3x.jpg">
+                    <a class="test-popup-link" href="images/Take-A-Hike.png">
           						<div class="ch-item ch-img-3">
           							<div class="ch-info">
           								<h3>Use what you have</h3>
@@ -211,7 +211,7 @@
                     </a>  
         					</li>
                   <li class="mix illustration">
-                    <a class="test-popup-link" href="images/4x.jpg">
+                    <a class="test-popup-link" href="images/Take-A-Hike.png">
                       <div class="ch-item ch-img-4">
                         <div class="ch-info">
                           <h3>Use what you have</h3>
@@ -221,7 +221,7 @@
                     </a> 
                   </li>
                   <li class="mix photoghraphy">
-                    <a class="test-popup-link" href="images/5x.jpg">
+                    <a class="test-popup-link" href="images/Take-A-Hike.png">
                       <div class="ch-item ch-img-5">
                         <div class="ch-info">
                           <h3>Use what you have</h3>
@@ -231,7 +231,7 @@
                     </a>  
                   </li>
                   <li class="mix design">
-                    <a class="test-popup-link" href="images/6x.jpg">
+                    <a class="test-popup-link" href="images/Take-A-Hike.png">
                       <div class="ch-item ch-img-6">
                         <div class="ch-info">
                           <h3>Use what you have</h3>
