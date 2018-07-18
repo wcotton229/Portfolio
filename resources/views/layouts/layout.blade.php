@@ -73,7 +73,7 @@
         <!--CHANGE YOUR NAME-->
         <span>William Cotton</span>
         <!--CHANGE YOUR PROFESSION-->
-        <p>Full Stack Web Developer</p>
+        <p>I am a Full Stack Web Developer</p>
     </div>   
         <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1a">
         <!--CHANGE "#" TO YOUR TWITTER URL, FACEBOOK URL AND LINKEDIN URL-->
@@ -97,10 +97,10 @@
               <img id="my_photo" src="/img/portfolio-image.jpg">
             </div>
             <!--CHANGE TEXT ABOUT YOU-->
-            <div id="about-me-box">Hi my name is William Cotton and I am currently enrolled in a coding bootcamp hosted by the University of Texas at Austin via Triliogy. I am thoroughly enjoying the challenge that coding offers as well as the creativity. I decide to presue computer coding because I wanted a change in careers. Coding stood out to me because I have many friends in different aspects of the business that really enjoy thier work, as well as, being somewhat computer savy I knew it would be a good fit. I hope, in time, that I will make this a full time career doing front-end wed development.
+            <div id="about-me-box">Hi, my name is William Cotton and I am a recent graduate from the coding bootcamp hosted by the University of Texas at Austin via Triliogy. I thoroughly enjoyed the challenge that coding offers as well as the creativity. I decide to presue computer coding because I wanted a change in careers. Coding stood out to me because I have many friends in different aspects of the business that really enjoy thier work, as well as, being computer savy I knew it would be a good fit. I hope, in time, that I will make this a full time career doing full stack web development.
               <br>
               <br>
-             A little background about myself, I graduated from the University of Texas at Austin with a bachelors degree in geography in December 2012. I am a husband to a wonderful wife and a recent father to a beautiful and healthy baby girl. I currently work at a land surverying company and am really enjoying the work. I love my family and the outdoors and am a huge fan of The Lord of the Rings triology.
+             A little background about myself, I graduated from the University of Texas at Austin with a bachelors degree in geography in May 2013. I am a husband to a wonderful wife and a recent father to a beautiful and healthy baby girl. I currently work at a land surverying company and am really enjoying the work. I love my family and the outdoors and am a huge fan of The Lord of the Rings triology.
               <!--HERE YOU CAN EDIT SKILLS. CHANGE ONLY TEXT BETWEEN <span>-->
               <!--THE VALUTE CHANGE IN FILE script.js-->
               <p class="skills-line" id="line-1"><span>Programming</span></p>
@@ -120,7 +120,7 @@
                 <!--CHANGE YOUR STATUS--> 
                 <p class="position">Full Stack Web Developer</p>
                 <!--CHANGE TEXT ABOUT EMPLOYMENT-->
-                <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh alte rivero nantasy muldaos kelty.</p>
+                <p class="description">Recent graduated</p>
                 </div>
                 <div class="selection-resume">
                 <div class="icons"><i class="fa fa-users"></i></div>
@@ -128,14 +128,23 @@
                 <div class="year">Present</div> 
                 <p class="company">Thomas Land Surveying</p>
                 <p class="position">AutoCAD Draftsman</p>
-                <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh alte rivero nantasy muldaos kelty.</p>
+                <p class="description">Collaborate with engineers, project managers, and clients regarding design parameters.
+                <br>
+                <br>
+                Create detailed technical drawings of Land Surveys according to specifications for residential and commercial projects.
+                <br>
+                <br>
+                Draw sketches to accurate scale showing relation of proposed and existing Right of Ways exact specifications and dimensions.</p>
                 </div>
                 <div class="selection-resume">
                 <div class="icons"><i class="fa fa-users"></i></div>  
                 <div class="year">2017 - 2018</div> 
                 <p class="company">CenterPoint Energy</p>
                 <p class="position">GIS Technician</p>
-                <p class="description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh alte rivero nantasy muldaos kelty.</p>
+                <p class="description">Digitized new survey polygons, using ArcGIS, for leak surveys of gas lines and created PDF maps for every area.
+                <br>
+                <br>
+                QA/QC of polygons drawn by co-workers to minimize errors once the project went live.</p>
                 </div>
                  <div class="selection-resume">
                 <div class="icons"><i class="fa fa-users"></i></div>  
@@ -159,7 +168,7 @@
                 <div class="year">2008 - 2012</div>   
                 <p class="company">University of Texas</p>
                 <p class="position">Bachelor of Arts</p>
-                <p class="description last-description">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh alte rivero nantasy muldaos kelty.</p>
+                <p class="description last-description">I graduated in 2013 from the University of Texas with a bachelors degree in geography with a minor in communication. </p>
                 </div>
                 <!--AND END HERE-->
               </div>  
@@ -171,7 +180,7 @@
                 <ul id='filter'>
                   <!--EDIT PORTFOLIO CATEGORY NAME'S BETWEEN <li> AND </li>. The data-filter="..." WILL FILTER THE PORTFOLIO BLOCKS WITH CLASS "mix ...". ALL WILL FILTER ALL THE PORTFOLIO BLOCKS. -->
                   <li class="filter" data-filter="all">All</li>
-                  <li class="filter" data-filter="design">Web Design</li>   
+                  <li class="filter" data-filter="design">Web Development</li>   
                   <li class="filter" data-filter="photoghraphy">Photography</li>
                   <li class="filter" data-filter="illustration">Illustration</li>
                 </ul> 
@@ -261,7 +270,7 @@
               <div id="resume-box">
                 <!--CHANGE TEXT ABOUT YOUR CONTACT-->
                 <div class="selection-resume">
-                Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh alte rivero nantasy muldaos kelty.
+                Please contact me for any questions or inquieries
                 </div>
                 <div id='contact-form'>   
                 <form id="contactform" method="post" name="contactform" action="">
@@ -287,16 +296,16 @@
         <div id="content4">
           <div id="selection-download">
           <!--CHANGE "#" - PASTE YOUR URL TO PDF FILE-->
-          <div id="download"><a href="#">Download as .PDF</a></div>
+          {{-- <div id="download"><a href="#">Download as .PDF</a></div> --}}
           <div id="socila-complet">
             <!--CHANGE "#" TO YOUR TWITTER URL, FACEBOOK URL ETC.-->
-            <a href="#"><i class="fa fa-twitter"></i></a>
-            <a href="#"><i class="fa fa-facebook"></i></a>
-            <a href="#"><i class="fa fa-dribbble"></i></a>
-            <a href="#"><i class="fa fa-pinterest"></i></a>
-            <a href="#"><i class="fa fa-google-plus"></i></a> 
-            <a href="#"><i class="fa fa-instagram"></i></a>
-            <a href="#"><i class="fa fa-linkedin"></i></a>
+            {{-- <a href="#"><i class="fa fa-twitter"></i></a> --}}
+            <a href="https://www.facebook.com/will.cotton.50"><i class="fa fa-facebook"></i></a>
+            {{-- <a href="#"><i class="fa fa-dribbble"></i></a> --}}
+            <a href="https://www.pinterest.com/mastrwilliam/"><i class="fa fa-pinterest"></i></a>
+            {{-- <a href="#"><i class="fa fa-google-plus"></i></a>  --}}
+            <a href="https://www.instagram.com/billywaynec/"><i class="fa fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/williamwcotton/"><i class="fa fa-linkedin"></i></a>
           </div>
           </div>
         </div>  
