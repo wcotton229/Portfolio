@@ -180,9 +180,9 @@
                 <ul id='filter'>
                   <!--EDIT PORTFOLIO CATEGORY NAME'S BETWEEN <li> AND </li>. The data-filter="..." WILL FILTER THE PORTFOLIO BLOCKS WITH CLASS "mix ...". ALL WILL FILTER ALL THE PORTFOLIO BLOCKS. -->
                   <li class="filter" data-filter="all">All</li>
-                  <li class="filter" data-filter="design">Web Development</li>   
+                  {{-- <li class="filter" data-filter="design">Web Development</li>    --}}
                   <li class="filter" data-filter="projects">Projects</li>
-                  <li class="filter" data-filter="illustration">Illustration</li>
+                  <li class="filter" data-filter="activities">Activities</li>
                 </ul> 
               </div>
               <div id='gallery'>
@@ -209,42 +209,42 @@
           						</div>
                     </a>
         					</li>
-        					<li class="mix illustration">
-                    <a class="test-popup-link" href="images/Take-A-Hike.png">
+        					<li class="mix activities">
+                    <a class="test-popup-link" href="https://github.com/wcotton229/triviagame">
           						<div class="ch-item ch-img-3">
           							<div class="ch-info">
-          								<h3>Use what you have</h3>
-          								<p>Client</p>
+          								<h3>LOTR Trivia</h3>
+          								<p>Activity</p>
           							</div>
           						</div>
                     </a>  
         					</li>
-                  <li class="mix illustration">
-                    <a class="test-popup-link" href="images/Take-A-Hike.png">
+                  <li class="mix activities">
+                    <a class="test-popup-link" href="https://github.com/wcotton229/ClickyGame">
                       <div class="ch-item ch-img-4">
                         <div class="ch-info">
-                          <h3>Use what you have</h3>
-                          <p>Personal</p>
+                          <h3>Archer ClickyGame</h3>
+                          <p>Activity</p>
                         </div>
                       </div>
                     </a> 
                   </li>
-                  <li class="mix photoghraphy">
-                    <a class="test-popup-link" href="images/Take-A-Hike.png">
+                  <li class="mix activities">
+                    <a class="test-popup-link" href="https://github.com/wcotton229/MongoScraper">
                       <div class="ch-item ch-img-5">
                         <div class="ch-info">
-                          <h3>Use what you have</h3>
-                          <p>Client</p>
+                          <h3>NY Times Scrapper</h3>
+                          <p>Activity</p>
                         </div>
                       </div>
                     </a>  
                   </li>
-                  <li class="mix design">
-                    <a class="test-popup-link" href="images/Take-A-Hike.png">
+                  <li class="mix projects">
+                    <a class="test-popup-link" href="https://github.com/lmcneel/stalks">
                       <div class="ch-item ch-img-6">
                         <div class="ch-info">
-                          <h3>Use what you have</h3>
-                          <p>Personal</p>
+                          <h3>Stock Market Pets</h3>
+                          <p>Project</p>
                         </div>
                       </div>
                     </a>   
