@@ -181,30 +181,30 @@
                   <!--EDIT PORTFOLIO CATEGORY NAME'S BETWEEN <li> AND </li>. The data-filter="..." WILL FILTER THE PORTFOLIO BLOCKS WITH CLASS "mix ...". ALL WILL FILTER ALL THE PORTFOLIO BLOCKS. -->
                   <li class="filter" data-filter="all">All</li>
                   <li class="filter" data-filter="design">Web Development</li>   
-                  <li class="filter" data-filter="photoghraphy">Photography</li>
+                  <li class="filter" data-filter="projects">Projects</li>
                   <li class="filter" data-filter="illustration">Illustration</li>
                 </ul> 
               </div>
               <div id='gallery'>
                 <ul class="ch-grid" id='Grid'>
-                	<li class="mix design">
+                	<li class="mix projects">
                     <!--IMAGES ARE STORED IN THE FOLDER "IMAGES". THUMBNAILS ARE MARKED WITH A NUMBER 1 TO 6. ORIGINAL SIZE HAVE A NUMBER AND "X".-->
-                    <a class="test-popup-link" href="images/Take-A-Hike.png">
+                    <a class="test-popup-link" href="https://github.com/wcotton229/TakeAHike">
           						<div class="ch-item ch-img-1">
           							<div class="ch-info">
                           <!--USE WHAT YOU HAVE. FOR EXAMPLE: NAME OF PHOTOGRAPHY AND CLIENT-->
-          								<h3>Use what you have</h3>
-          								<p>Client</p>
+          								<h3>Take-A-Hike</h3>
+          								<p>Project</p>
           							</div>
           						</div>
                     </a>
 					        </li>
-        					<li class="mix photoghraphy">
-                    <a class="test-popup-link" href="images/Take-A-Hike.png">
+        					<li class="mix projects">
+                    <a class="test-popup-link" href="https://github.com/KrisBierma/plantos">
           						<div class="ch-item ch-img-2">
           							<div class="ch-info">
-          								<h3>Use what you have</h3>
-          								<p>Personal</p>
+          								<h3>Plantos</h3>
+          								<p>Project</p>
           							</div>
           						</div>
                     </a>
