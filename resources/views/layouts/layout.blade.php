@@ -267,7 +267,7 @@
                   <p>Tomball, TX 77375, US <i class="fa fa-map-marker"></i></p>
                 </div>
               </div>
-              <div id="resume-box">
+              {{-- <div id="resume-box">
                 <!--CHANGE TEXT ABOUT YOUR CONTACT-->
                 <div class="selection-resume">
                 Please contact me for any questions or inquieries
@@ -289,7 +289,7 @@
                 <div id="success"></div>
                 </form>  
                 </div>
-              </div>  
+              </div>   --}}
             </div>
         </div>
         <div id="map"></div>
