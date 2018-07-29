@@ -134,8 +134,8 @@ $(document).scroll(function(){
     if(docScroll >= boxCntOfset ) {
 
       $("#line-1").css('width','100%');// EDIT % YOUR PROGRAMMING SKILL// 
-      $("#line-2").css('width','50%');// EDIT % YOUR GRAPHIC DESIGN SKILL// 
-      $("#line-3").css('width','25%');// EDIT % YOUR WORDPRESS SKILL// 
+      $("#line-2").css('width','60%');// EDIT % YOUR GRAPHIC DESIGN SKILL// 
+      $("#line-3").css('width','75%');// EDIT % YOUR WORDPRESS SKILL// 
     } else {
       $("#line-1").css('width','0px');
       $("#line-2").css('width','0px');

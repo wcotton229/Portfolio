@@ -103,9 +103,9 @@
              A little background about myself, I graduated from the University of Texas at Austin with a bachelors degree in geography in May 2013. I am a husband to a wonderful wife and a recent father to a beautiful and healthy baby girl. I currently work at a land surverying company and am really enjoying the work. I love my family and the outdoors and am a huge fan of The Lord of the Rings triology.
               <!--HERE YOU CAN EDIT SKILLS. CHANGE ONLY TEXT BETWEEN <span>-->
               <!--THE VALUTE CHANGE IN FILE script.js-->
-              <p class="skills-line" id="line-1"><span>Programming</span></p>
-              <p class="skills-line" id="line-2"><span>Graphic Design</span></p>
-              <p class="skills-line" id="line-3"><span>Wordpress</span></p> 
+              <p class="skills-line" id="line-1"><span>Full Stack</span></p>
+              <p class="skills-line" id="line-2"><span>Front-End</span></p>
+              <p class="skills-line" id="line-3"><span>Back-End</span></p> 
             </div>
           </div>     
         </div>
