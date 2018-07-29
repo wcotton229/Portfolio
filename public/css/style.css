@@ -20,13 +20,11 @@
 }
 
 .ch-img-2 { 
-	background-image: url(/images/);
-	/* Plantos.png */
+	background-image: url(/images/Plantos.png);
 }
 
 .ch-img-3 { 
-	background-image: url(/images/);
-	/* LOTR_Trivia.png */
+	background-image: url(/images/LOTR_Trivia.png);
 }
 
 .ch-img-4 { 
@@ -38,8 +36,7 @@
 }
 
 .ch-img-6 { 
-	background-image: url(/images/);
-	/* Stock_Market_Pets.png */
+	background-image: url(/images/Stock_Market_Pets.png);
 }
 .ch-info {
 	position: absolute;
