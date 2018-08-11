@@ -262,7 +262,7 @@
                   <!--CHANGE YOUR EMAIL-->
                   <p>wcotton229@gmail.com <i class="fa fa-envelope "></i></p>
                   <!--CHANGE YOUR WEBSITE-->
-                  <p><a href="#">william-cotton.com</a> <i class="fa fa-globe  "></i></p>
+                  <p><a href="william-cotton.com">william-cotton.com</a> <i class="fa fa-globe  "></i></p>
                   <!--CHANGE YOUR ADRESS-->
                   <p>Tomball, TX 77375, US <i class="fa fa-map-marker"></i></p>
                 </div>
