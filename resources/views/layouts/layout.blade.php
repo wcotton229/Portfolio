@@ -78,7 +78,7 @@
         <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1a">
         <!--CHANGE "#" TO YOUR TWITTER URL, FACEBOOK URL AND LINKEDIN URL-->
         <a href="https://github.com/wcotton229" class="hi-icon hi-icon-mobile"><i class="fa fa-github"></i></a>
-        <a href="https://stackoverflow.com/users/9116203/william-cotton" class="hi-icon hi-icon-screen"><i class="fa fa-stack-overflow"></i></a>
+        {{-- <a href="https://stackoverflow.com/users/9116203/william-cotton" class="hi-icon hi-icon-screen"><i class="fa fa-stack-overflow"></i></a> --}}
         <a href="https://www.linkedin.com/in/williamwcotton/" class="hi-icon hi-icon-earth"><i class="fa fa-linkedin"></i></a>
         </div>
     <div class="arrow animated bounce">
@@ -97,10 +97,10 @@
               <img id="my_photo" src="/img/portfolio-image.jpg">
             </div>
             <!--CHANGE TEXT ABOUT YOU-->
-            <div id="about-me-box">Hi, my name is William Cotton and I am a recent graduate from the coding bootcamp hosted by the University of Texas at Austin via Triliogy. I thoroughly enjoyed the challenge that coding offers as well as the creativity. I decide to presue computer coding because I wanted a change in careers. Coding stood out to me because I have many friends in different aspects of the business that really enjoy thier work, as well as, being computer savy I knew it would be a good fit. I hope, in time, that I will make this a full time career doing full stack web development.
+            <div id="about-me-box">Hi, my name is William Cotton and I am a Full Stack Web Developer with a background in geographic information systems. I graduated from the University of Texas at Austin with a Bachelor's degree in Geography. I have experience in HTML5, CSS3, Bootstrap, ES6, JavaScript, jQuery, Firebase, Node JS, Express, MySQL, MongoDB, Handlebars JS, React, and PHP with experience in RESTful and MVC frameworks. 
               <br>
               <br>
-             A little background about myself, I graduated from the University of Texas at Austin with a bachelors degree in geography in May 2013. I am a husband to a wonderful wife and a recent father to a beautiful and healthy baby girl. I currently work at a land surverying company and am really enjoying the work. I love my family and the outdoors and am a huge fan of The Lord of the Rings triology.
+              A little about myself. I enjoy learning new things, which led me to having many hobbies - rock climbing, scuba diving, woodworking, martial arts and hiking to name a few. I enjoy traveling to see new places and learning about their culture. I am a husband to a wonderful wife and a father to my beautiful daughter. I love my family, coding and the outdoors and am a huge fan of The Lord of the Rings triology. Please check out some of my projects below.
               <!--HERE YOU CAN EDIT SKILLS. CHANGE ONLY TEXT BETWEEN <span>-->
               <!--THE VALUTE CHANGE IN FILE script.js-->
               <p class="skills-line" id="line-1"><span>Full Stack</span></p>
