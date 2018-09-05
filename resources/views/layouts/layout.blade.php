@@ -189,7 +189,7 @@
                 <ul class="ch-grid" id='Grid'>
                 	<li class="mix projects">
                     <!--IMAGES ARE STORED IN THE FOLDER "IMAGES". THUMBNAILS ARE MARKED WITH A NUMBER 1 TO 6. ORIGINAL SIZE HAVE A NUMBER AND "X".-->
-                    <a class="test-popup-link" href="https://github.com/wcotton229/TakeAHike">
+                    <a class="test-popup-link" href="https://github.com/wcotton229/TakeAHike" target="_blank">
           						<div class="ch-item ch-img-1">
           							<div class="ch-info">
           								<h3>Take-A-Hike</h3>
@@ -199,7 +199,7 @@
                     </a>
 					        </li>
         					<li class="mix projects">
-                    <a class="test-popup-link" href="https://github.com/KrisBierma/plantos">
+                    <a class="test-popup-link" href="https://github.com/KrisBierma/plantos" target="_blank">
           						<div class="ch-item ch-img-2">
           							<div class="ch-info">
           								<h3>Plantos</h3>
@@ -209,7 +209,7 @@
                     </a>
         					</li>
         					<li class="mix activities">
-                    <a class="test-popup-link" href="https://github.com/wcotton229/triviagame">
+                    <a class="test-popup-link" href="https://github.com/wcotton229/triviagame" target="_blank">
           						<div class="ch-item ch-img-3">
           							<div class="ch-info">
           								<h3>LOTR Trivia</h3>
@@ -219,7 +219,7 @@
                     </a>  
         					</li>
                   <li class="mix activities">
-                    <a class="test-popup-link" href="https://github.com/wcotton229/ClickyGame">
+                    <a class="test-popup-link" href="https://github.com/wcotton229/ClickyGame" target="_blank">
                       <div class="ch-item ch-img-4">
                         <div class="ch-info">
                           <h3>Archer ClickyGame</h3>
@@ -229,7 +229,7 @@
                     </a> 
                   </li>
                   <li class="mix activities">
-                    <a class="test-popup-link" href="https://github.com/wcotton229/MongoScraper">
+                    <a class="test-popup-link" href="https://github.com/wcotton229/MongoScraper" target="_blank">
                       <div class="ch-item ch-img-5">
                         <div class="ch-info">
                           <h3>NY Times Scrapper</h3>
@@ -239,7 +239,7 @@
                     </a>  
                   </li>
                   <li class="mix projects">
-                    <a class="test-popup-link" href="https://github.com/lmcneel/stalks">
+                    <a class="test-popup-link" href="https://github.com/lmcneel/stalks" target="_blank">
                       <div class="ch-item ch-img-6">
                         <div class="ch-info">
                           <h3>Stock Market Pets</h3>
