@@ -19,13 +19,13 @@
 	background-image: url(/images/Take-A-Hike.png);
 }
 
-/* .ch-img-2 { 
+.ch-img-2 { 
 	background-image: url(/images/Plantos.png);
-} */
+}
 
-/* .ch-img-3 { 
+.ch-img-3 { 
 	background-image: url(/images/LOTR_Trivia.png);
-} */
+}
 
 .ch-img-4 { 
 	background-image: url(/images/archer.jpg);
@@ -35,9 +35,9 @@
 	background-image: url(/images/NYT.png);
 }
 
-/* .ch-img-6 { 
+.ch-img-6 { 
 	background-image: url(/images/Stock_Market_Pets.png);
-} */
+}
 .ch-info {
 	position: absolute;
 	background: rgba(63,147,147, 0.8);
