@@ -192,7 +192,6 @@
                     <a class="test-popup-link" href="https://github.com/wcotton229/TakeAHike">
           						<div class="ch-item ch-img-1">
           							<div class="ch-info">
-                          <!--USE WHAT YOU HAVE. FOR EXAMPLE: NAME OF PHOTOGRAPHY AND CLIENT-->
           								<h3>Take-A-Hike</h3>
           								<p>Project</p>
           							</div>
@@ -257,13 +256,13 @@
             <div id="contact">
               <div class="headlines" id="headlines-contact">GET<p>IN</p><p>TOUCH</p>
                 <div>
-                  <!--CHANGE YOUR PHONE NUMBER-->
+                  <!--PHONE NUMBER-->
                   <p>832 392 1200 <i class="fa fa-phone"></i></p>
-                  <!--CHANGE YOUR EMAIL-->
+                  <!--EMAIL-->
                   <p>wcotton229@gmail.com <i class="fa fa-envelope "></i></p>
-                  <!--CHANGE YOUR WEBSITE-->
+                  <!--WEBSITE-->
                   <p><a href="william-cotton.com">william-cotton.com</a> <i class="fa fa-globe  "></i></p>
-                  <!--CHANGE YOUR ADRESS-->
+                  <!--ADRESS-->
                   <p>Tomball, TX 77375, US <i class="fa fa-map-marker"></i></p>
                 </div>
               </div>
