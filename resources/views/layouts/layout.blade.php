@@ -259,7 +259,7 @@
                   <!--PHONE NUMBER-->
                   <p>832 392 1200 <i class="fa fa-phone"></i></p>
                   <!--EMAIL-->
-                  <p>wcotton229@gmail.com <i class="fa fa-envelope "></i></p>
+                  <p>william@william-cotton.com <i class="fa fa-envelope "></i></p>
                   <!--WEBSITE-->
                   <p><a href="william-cotton.com">william-cotton.com</a> <i class="fa fa-globe  "></i></p>
                   <!--ADRESS-->
