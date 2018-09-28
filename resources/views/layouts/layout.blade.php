@@ -199,7 +199,7 @@
                     </a>
 					        </li>
         					<li class="mix projects">
-                    <a class="test-popup-link" href="https://github.com/KrisBierma/plantos" target="_blank">
+                    <a class="test-popup-link" href="https://github.com/wcotton229/Plantos" target="_blank">
           						<div class="ch-item ch-img-2">
           							<div class="ch-info">
           								<h3>Plantos</h3>
